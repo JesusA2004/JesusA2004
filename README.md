@@ -1,16 +1,18 @@
-## Hi there 👋
+## Tech radar
+![Laravel](https://img.shields.io/badge/Laravel-10-red)
+![MongoDB](https://img.shields.io/badge/MongoDB-Document_DB-green)
+![Vue.js](https://img.shields.io/badge/Vue-CLI-brightgreen)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 
-<!--
-**JesusA2004/JesusA2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Casos de estudio</summary>
 
-Here are some ideas to get you started:
+### Mindfulness Platform
+- Módulos: usuarios, técnicas, tests, citas, reportes con gráficos.
+- Arquitectura: Laravel + MongoDB (colecciones embebidas donde conviene).
+- Extras: exportaciones Excel/PDF, notificaciones, AOS en UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Android: Diagnóstico Exprés de Sensores
+- Cámara, linterna, vibración, pruebas rápidas.
+</details>
