@@ -1,13 +1,12 @@
 <!-- Encabezado animado (typing) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=900&color=1B2A4A&center=true&vCenter=true&width=950&lines=Ingeniero+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n;Enfoque+en+desarrollo+web+%26+APIs+RESTful;Laravel+%2B+Vue+%2B+MongoDB+como+stack+principal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=900&color=FFFFFF&center=true&vCenter=true&width=950&lines=Ingeniero+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n;Enfoque+en+desarrollo+web+%26+APIs+RESTful" alt="Typing SVG" />
 </p>
 
 # Sobre mí
 Desarrollador orientado a producto con foco en arquitectura web moderna.
 - Experiencia en Java (OOP, JDBC), PHP 8.2 y JavaScript ES6+.
-- Diseño e implementación de APIs RESTful con autenticación, policies y RBAC.
-- Proyecto insignia: Plataforma de Mindfulness (Laravel 10 + Vue CLI + MongoDB + MySQL).
+- Diseño e implementación de APIs RESTful.
 - Entregables limpios, documentación accionable y UX funcional.
 
 ---
